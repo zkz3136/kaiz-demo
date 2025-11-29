@@ -1,2 +1,2 @@
-# kaiz
+# kaiz-repositories
 无
